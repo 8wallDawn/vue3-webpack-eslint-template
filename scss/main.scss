@@ -1,0 +1,11 @@
+$color--bg : deepskyblue;
+$fc-white : #fff;
+
+body {
+  background-color: $color--bg;
+  h1 {
+    color: $fc-white;
+    font-size: 40px;
+    display: flex;
+  }
+}
